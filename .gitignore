@@ -1,0 +1,19 @@
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xls
+
+# Arquivos de sistema (Windows e Mac)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e temporários
+*.tmp
+*.log
+
+# Configurações locais do PostgreSQL (se por acaso exportar)
+*.backup
+*.sql.bak
+
+# Pasta de configurações locais do VS Code (opcional)
+.vscode/
